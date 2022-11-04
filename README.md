@@ -9,12 +9,11 @@ this project contail the following :
   7. retrofit to send internet request | with Gson converter
   8. coil library for loading image
   
+  
+   [api refrence website](https://zoo-animal-api.herokuapp.com/).
+
+
   screenshot : 
   
-  <img src="https://github.com/saraXX/EveryDayAnimal/blob/master/screenshout.gif" width=50% height=50%>
-  
-  
-  - ![This is an image](https://github.com/saraXX/EveryDayAnimal/blob/master/screenshout.gif)
-
-
+  <img src="https://github.com/saraXX/EveryDayAnimal/blob/master/screenshout.gif" width=30% height=30%>
   
