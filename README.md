@@ -10,7 +10,7 @@ this project contail the following :
   8. coil library for loading image
   
   screenshot : 
-  ![This is an image](https://github.com/saraXX/EveryDayAnimal/blob/master/screenshout.gif)
+  - ![This is an image](https://github.com/saraXX/EveryDayAnimal/blob/master/screenshout.gif)
 
 
   
